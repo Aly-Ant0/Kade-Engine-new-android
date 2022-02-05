@@ -1,0 +1,28 @@
+{
+ "song": {
+  "sectionLengths": [],
+  "player1": "bf-dark",
+  "gfVersion": "gf-dark",
+  "player2": "auditor",
+  "notes": [
+   
+  ],
+  "chartVersion": "KE1",
+  "eventObjects": [
+   {
+    "name": "Init BPM",
+    "position": 0,
+    "value": 190,
+    "type": "BPM Change"
+   }
+  ],
+  "song": "encavmaphobia",
+  "stage": "encavmaphobia",
+  "validScore": true,
+  "sections": 0,
+  "needsVoices": true,
+  "noteStyle": "normal",
+  "speed": 3,
+  "bpm": 190
+ }
+}
