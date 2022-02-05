@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="arrow.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrows0000" x="20" y="20" width="100" height="44"/>
+	<SubTexture name="arrows0001" x="135" y="20" width="100" height="44"/>
+	<SubTexture name="arrows0002" x="250" y="20" width="100" height="44"/>
+	<SubTexture name="arrows0003" x="365" y="20" width="100" height="44"/>
+	<SubTexture name="arrows0004" x="20" y="79" width="100" height="44"/>
+	<SubTexture name="arrows0005" x="135" y="79" width="100" height="44"/>
+	<SubTexture name="arrows0006" x="250" y="79" width="100" height="44"/>
+	<SubTexture name="arrows0007" x="250" y="79" width="100" height="44"/>
+	<SubTexture name="arrows0008" x="365" y="79" width="100" height="44"/>
+	<SubTexture name="arrows0009" x="20" y="138" width="100" height="44"/>
+	<SubTexture name="arrows0010" x="135" y="138" width="100" height="44"/>
+	<SubTexture name="arrows0011" x="250" y="138" width="100" height="44"/>
+	<SubTexture name="arrows0012" x="250" y="20" width="100" height="44"/>
+	<SubTexture name="arrows0013" x="365" y="138" width="100" height="44"/>
+</TextureAtlas>

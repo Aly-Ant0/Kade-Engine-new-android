@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grunt_DJ.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DJ0000" x="20" y="20" width="424" height="376"/>
+	<SubTexture name="DJ0001" x="459" y="20" width="424" height="376"/>
+	<SubTexture name="DJ0002" x="898" y="20" width="424" height="376"/>
+	<SubTexture name="DJ0003" x="1337" y="20" width="424" height="376"/>
+	<SubTexture name="DJ0004" x="20" y="411" width="424" height="376"/>
+	<SubTexture name="DJ0005" x="459" y="411" width="424" height="376"/>
+	<SubTexture name="DJ0006" x="898" y="411" width="424" height="376"/>
+	<SubTexture name="DJ0007" x="1337" y="411" width="424" height="376"/>
+	<SubTexture name="DJ0008" x="20" y="802" width="424" height="376"/>
+	<SubTexture name="DJ0009" x="459" y="802" width="424" height="376"/>
+	<SubTexture name="DJ0010" x="898" y="802" width="424" height="376"/>
+	<SubTexture name="DJ0011" x="1337" y="802" width="424" height="376"/>
+	<SubTexture name="DJ0012" x="20" y="1193" width="424" height="376"/>
+	<SubTexture name="DJ0013" x="459" y="1193" width="424" height="376"/>
+</TextureAtlas>

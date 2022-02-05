@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ball.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ball_play0000" x="20" y="20" width="543" height="255"/>
+	<SubTexture name="ball_play0001" x="578" y="20" width="543" height="255"/>
+	<SubTexture name="ball_play0002" x="1136" y="20" width="543" height="255"/>
+	<SubTexture name="ball_play0003" x="1694" y="20" width="543" height="255"/>
+	<SubTexture name="ball_play0004" x="2252" y="20" width="543" height="255"/>
+	<SubTexture name="ball_play0005" x="2810" y="20" width="543" height="255"/>
+	<SubTexture name="ball_play0006" x="3368" y="20" width="543" height="255"/>
+	<SubTexture name="ball_play0007" x="20" y="290" width="543" height="255"/>
+	<SubTexture name="ball_play0008" x="578" y="290" width="543" height="255"/>
+	<SubTexture name="ball_play0009" x="1136" y="290" width="543" height="255"/>
+	<SubTexture name="ball_play0010" x="1694" y="290" width="543" height="255"/>
+	<SubTexture name="ball_play0011" x="1694" y="290" width="543" height="255"/>
+	<SubTexture name="ball_play0012" x="1694" y="290" width="543" height="255"/>
+	<SubTexture name="ball_play0013" x="2252" y="290" width="543" height="255"/>
+	<SubTexture name="ball_play0014" x="2252" y="290" width="543" height="255"/>
+	<SubTexture name="ball_play0015" x="2810" y="290" width="543" height="255"/>
+	<SubTexture name="ball_play0016" x="2810" y="290" width="543" height="255"/>
+	<SubTexture name="ball_play0017" x="3368" y="290" width="543" height="255"/>
+	<SubTexture name="ball_play0018" x="3368" y="290" width="543" height="255"/>
+	<SubTexture name="ball_play0019" x="3368" y="290" width="543" height="255"/>
+	<SubTexture name="ball_play0020" x="3368" y="290" width="543" height="255"/>
+	<SubTexture name="ball_play0021" x="20" y="560" width="543" height="255"/>
+	<SubTexture name="ball_play0022" x="20" y="560" width="543" height="255"/>
+	<SubTexture name="ball_play0023" x="20" y="560" width="543" height="255"/>
+	<SubTexture name="ball_play0024" x="20" y="560" width="543" height="255"/>
+	<SubTexture name="ball_play0025" x="1694" y="290" width="543" height="255"/>
+	<SubTexture name="ball_play0026" x="578" y="560" width="543" height="255"/>
+	<SubTexture name="ball_play0027" x="1136" y="560" width="543" height="255"/>
+	<SubTexture name="ball_play0028" x="1694" y="560" width="543" height="255"/>
+	<SubTexture name="ball_play0029" x="2252" y="560" width="543" height="255"/>
+	<SubTexture name="ball_play0030" x="2810" y="560" width="543" height="255"/>
+	<SubTexture name="ball_play0031" x="3368" y="560" width="543" height="255"/>
+	<SubTexture name="ball_play0032" x="20" y="830" width="543" height="255"/>
+	<SubTexture name="ball_play0033" x="20" y="830" width="543" height="255"/>
+	<SubTexture name="ball_play0034" x="578" y="830" width="543" height="255"/>
+	<SubTexture name="ball_play0035" x="578" y="830" width="543" height="255"/>
+	<SubTexture name="ball_play0036" x="20" y="20" width="543" height="255"/>
+</TextureAtlas>
