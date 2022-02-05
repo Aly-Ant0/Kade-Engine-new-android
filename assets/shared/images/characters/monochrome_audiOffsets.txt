@@ -1,0 +1,7 @@
+idle 190 150
+singUP 190 190
+singRIGHT 550 160
+singLEFT 209 150
+singDOWN 410 150
+appear 190 210
+appearnotext 190 150
