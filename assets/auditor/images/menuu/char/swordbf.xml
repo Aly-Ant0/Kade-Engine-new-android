@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="swordbf.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="swordbf0000" x="15" y="15" width="415" height="1294"/>
+	<SubTexture name="swordbf0001" x="15" y="15" width="415" height="1294"/>
+	<SubTexture name="swordbf0002" x="440" y="15" width="415" height="1294"/>
+	<SubTexture name="swordbf0003" x="440" y="15" width="415" height="1294"/>
+	<SubTexture name="swordbf0004" x="865" y="15" width="415" height="1294"/>
+	<SubTexture name="swordbf0005" x="865" y="15" width="415" height="1294"/>
+	<SubTexture name="swordbf0006" x="1290" y="15" width="415" height="1294"/>
+	<SubTexture name="swordbf0007" x="1290" y="15" width="415" height="1294"/>
+	<SubTexture name="swordbf0008" x="1715" y="15" width="415" height="1294"/>
+	<SubTexture name="swordbf0009" x="1715" y="15" width="415" height="1294"/>
+	<SubTexture name="swordbf0010" x="1715" y="15" width="415" height="1294"/>
+	<SubTexture name="swordbf0011" x="1715" y="15" width="415" height="1294"/>
+	<SubTexture name="swordbf0012" x="1715" y="15" width="415" height="1294"/>
+	<SubTexture name="swordbf0013" x="1715" y="15" width="415" height="1294"/>
+</TextureAtlas>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="swordatp.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="swordatp0000" x="15" y="15" width="415" height="1294"/>
+	<SubTexture name="swordatp0001" x="440" y="15" width="415" height="1294"/>
+	<SubTexture name="swordatp0002" x="865" y="15" width="415" height="1294"/>
+	<SubTexture name="swordatp0003" x="1290" y="15" width="415" height="1294"/>
+	<SubTexture name="swordatp0004" x="1715" y="15" width="415" height="1294"/>
+	<SubTexture name="swordatp0005" x="2140" y="15" width="415" height="1294"/>
+	<SubTexture name="swordatp0006" x="2565" y="15" width="415" height="1294"/>
+	<SubTexture name="swordatp0007" x="2990" y="15" width="415" height="1294"/>
+	<SubTexture name="swordatp0008" x="3415" y="15" width="415" height="1294"/>
+	<SubTexture name="swordatp0009" x="15" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordatp0010" x="440" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordatp0011" x="865" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordatp0012" x="1290" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordatp0013" x="1290" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordatp0014" x="1290" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordatp0015" x="1290" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordatp0016" x="1290" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordatp0017" x="1290" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordatp0018" x="1715" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordatp0019" x="2140" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordatp0020" x="2565" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordatp0021" x="2990" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordatp0022" x="3415" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordatp0023" x="15" y="2623" width="415" height="1294"/>
+	<SubTexture name="swordatp0024" x="440" y="2623" width="415" height="1294"/>
+	<SubTexture name="swordatp0025" x="865" y="2623" width="415" height="1294"/>
+	<SubTexture name="swordatp0026" x="15" y="15" width="415" height="1294"/>
+	<SubTexture name="swordatp0027" x="15" y="15" width="415" height="1294"/>
+	<SubTexture name="swordatp0028" x="15" y="15" width="415" height="1294"/>
+	<SubTexture name="swordatp0029" x="15" y="15" width="415" height="1294"/>
+</TextureAtlas>

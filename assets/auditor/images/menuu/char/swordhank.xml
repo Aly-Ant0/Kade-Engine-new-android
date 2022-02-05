@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="swordhank.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="swordhank0000" x="15" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0001" x="440" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0002" x="865" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0003" x="1290" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0004" x="1715" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0005" x="2140" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0006" x="2565" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0007" x="2990" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0008" x="3415" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0009" x="3840" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0010" x="4265" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0011" x="4690" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0012" x="5115" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0013" x="5540" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0014" x="5965" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0015" x="6390" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0016" x="6815" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0017" x="7240" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0018" x="7665" y="15" width="415" height="1294"/>
+	<SubTexture name="swordhank0019" x="15" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordhank0020" x="440" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordhank0021" x="865" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordhank0022" x="1290" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordhank0023" x="1715" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordhank0024" x="2140" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordhank0025" x="2565" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordhank0026" x="2990" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordhank0027" x="3415" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordhank0028" x="3840" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordhank0029" x="4265" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordhank0030" x="4690" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordhank0031" x="5115" y="1319" width="415" height="1294"/>
+</TextureAtlas>

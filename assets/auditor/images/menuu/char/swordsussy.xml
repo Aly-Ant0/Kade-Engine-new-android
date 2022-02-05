@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="swordsussy.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="swordsussy0000" x="15" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsussy0001" x="15" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsussy0002" x="440" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsussy0003" x="440" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsussy0004" x="865" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsussy0005" x="865" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsussy0006" x="1290" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsussy0007" x="1290" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsussy0008" x="1715" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsussy0009" x="1715" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsussy0010" x="2140" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsussy0011" x="2140" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsussy0012" x="2565" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsussy0013" x="2565" y="15" width="415" height="1294"/>
+</TextureAtlas>

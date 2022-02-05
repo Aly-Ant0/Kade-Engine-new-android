@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="swordsanford.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="swordsanford0000" x="15" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsanford0001" x="440" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsanford0002" x="865" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsanford0003" x="1290" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsanford0004" x="1715" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsanford0005" x="2140" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsanford0006" x="2565" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsanford0007" x="2990" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsanford0008" x="3415" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsanford0009" x="15" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordsanford0010" x="15" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordsanford0011" x="440" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordsanford0012" x="865" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordsanford0013" x="1290" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordsanford0014" x="1715" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordsanford0015" x="2140" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordsanford0016" x="2565" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordsanford0017" x="865" y="15" width="415" height="1294"/>
+	<SubTexture name="swordsanford0018" x="2990" y="1319" width="415" height="1294"/>
+	<SubTexture name="swordsanford0019" x="15" y="15" width="415" height="1294"/>
+</TextureAtlas>
