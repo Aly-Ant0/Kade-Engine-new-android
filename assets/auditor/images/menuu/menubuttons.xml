@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menubuttons.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="story mode off0001" x="5" y="5" width="693" height="251" frameX="0" frameY="-1" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="story mode on0001" x="703" y="5" width="693" height="251" frameX="0" frameY="-1" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="options off0001" x="1401" y="5" width="693" height="251" frameX="0" frameY="-1" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="options on0001" x="2099" y="5" width="693" height="251" frameX="0" frameY="-1" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="music off0001" x="2797" y="5" width="693" height="251" frameX="0" frameY="-1" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="music on0001" x="5" y="261" width="693" height="251" frameX="0" frameY="-1" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="week1 off0001" x="703" y="261" width="693" height="251" frameX="0" frameY="0" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="week1 on0001" x="1401" y="261" width="693" height="251" frameX="0" frameY="0" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="week1 locked0001" x="5" y="517" width="692" height="176" frameX="0" frameY="-33" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="week2 off0001" x="2099" y="261" width="693" height="251" frameX="0" frameY="0" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="week2 on0001" x="2797" y="261" width="693" height="251" frameX="0" frameY="0" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="week2 locked0001" x="5" y="517" width="692" height="176" frameX="0" frameY="-33" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="encavmaphobia off0001" x="702" y="517" width="599" height="217" frameX="-47" frameY="-16" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="encavmaphobia on0001" x="1306" y="517" width="599" height="217" frameX="-47" frameY="-16" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="encavmaphobia locked0001" x="608" y="961" width="598" height="152" frameX="-47" frameY="-45" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="supremacy off0001" x="1910" y="517" width="598" height="217" frameX="-47" frameY="-16" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="supremacy on0001" x="2513" y="517" width="598" height="217" frameX="-47" frameY="-16" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="supremacy locked0001" x="608" y="961" width="598" height="152" frameX="-47" frameY="-45" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="gateway off0001" x="3116" y="517" width="598" height="216" frameX="-47" frameY="-16" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="gateway on0001" x="5" y="739" width="598" height="217" frameX="-47" frameY="-16" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="gateway locked0001" x="608" y="961" width="598" height="152" frameX="-47" frameY="-45" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="captivity off0001" x="608" y="739" width="598" height="216" frameX="-47" frameY="-16" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="captivity on0001" x="1211" y="739" width="598" height="216" frameX="-47" frameY="-16" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="captivity locked0001" x="608" y="961" width="598" height="152" frameX="-47" frameY="-45" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="unhinged off0001" x="1814" y="739" width="598" height="217" frameX="-47" frameY="-15" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="unhinged on0001" x="2417" y="739" width="598" height="217" frameX="-47" frameY="-15" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="unhinged locked0001" x="608" y="961" width="598" height="152" frameX="-47" frameY="-45" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="dissension off0001" x="3020" y="739" width="598" height="217" frameX="-47" frameY="-15" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="dissension on0001" x="5" y="961" width="598" height="217" frameX="-47" frameY="-15" frameWidth="693" frameHeight="252"/>
+	<SubTexture name="dissension locked0001" x="608" y="961" width="598" height="152" frameX="-47" frameY="-45" frameWidth="693" frameHeight="252"/>
+</TextureAtlas>
